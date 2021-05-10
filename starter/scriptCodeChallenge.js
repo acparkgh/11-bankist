@@ -22,8 +22,8 @@ const checkDogs = function (dogsJulia, dogsKate) {
 
 }
 
-const juliasData = [3, 5, 2, 12, 7];
-const katesData = [4, 1, 15, 8, 3];
+// const juliasData = [3, 5, 2, 12, 7];
+// const katesData = [4, 1, 15, 8, 3];
 
 // const juliasData = [9, 16, 6, 8, 3];
 // const katesData = [10, 5, 6, 1, 4];
