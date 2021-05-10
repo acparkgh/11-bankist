@@ -28,7 +28,7 @@ const katesData = [4, 1, 15, 8, 3];
 // const juliasData = [9, 16, 6, 8, 3];
 // const katesData = [10, 5, 6, 1, 4];
 
-checkDogs(juliasData, katesData);
+// checkDogs(juliasData, katesData);
 
 
 const calcAverageHumanAge = function (dogAgeArray) {
